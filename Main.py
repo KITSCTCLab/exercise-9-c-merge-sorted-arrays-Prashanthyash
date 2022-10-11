@@ -9,7 +9,7 @@ nums1 = []
 nums2 = []
 for item in input().split(', ')
   nums1.append(int(item))
-for item in input().split(', '):
+for item in input().split(', ')
   nums2.append(int(item))
 m = int(input())
 n = int(input())
